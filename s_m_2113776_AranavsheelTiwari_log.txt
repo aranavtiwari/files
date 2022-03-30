@@ -1,0 +1,164 @@
+2022-03-30 04:31:26 : INFO : (5604 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6014 : Initializing session [s_m_2103268_Gauthamramesh1] at [Wed Mar 30 04:31:26 2022].
+2022-03-30 04:31:26 : INFO : (5604 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6683 : Repository Name: [Repo_Academy]
+2022-03-30 04:31:26 : INFO : (5604 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6684 : Server Name: [INT_RepoAcademy]
+2022-03-30 04:31:26 : INFO : (5604 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6686 : Folder: [Training_Academy]
+2022-03-30 04:31:26 : INFO : (5604 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6685 : Workflow: [wf_2103268_Gauthamramesh1] Run Instance Name: [] Run Id: [35]
+2022-03-30 04:31:26 : INFO : (5604 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6101 : Mapping name: m_2103268_Gautham [version CheckedOut].
+2022-03-30 04:31:26 : INFO : (5604 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6964 : Date format for the Session is [MM/DD/YYYY HH24:MI:SS.US]
+2022-03-30 04:31:26 : INFO : (5604 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6708 : Using configuration property [EnableDataEncryption,no]
+2022-03-30 04:31:26 : INFO : (5604 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6708 : Using configuration property [StoreHAPersistenceInDB,no]
+2022-03-30 04:31:26 : INFO : (5604 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6703 : Session [s_m_2103268_Gauthamramesh1] is run by 64-bit Integration Service  [node01], version [10.1.0], build [0609].
+2022-03-30 04:31:26 : INFO : (5604 | MANAGER) : (IS | INT_RepoAcademy) : node01 : PETL_24091 : Thread [MANAGER] has the ID [1].
+2022-03-30 04:31:26 : INFO : (5604 | MANAGER) : (IS | INT_RepoAcademy) : node01 : PETL_24058 : Running Partition Group [1].
+2022-03-30 04:31:26 : INFO : (5604 | MANAGER) : (IS | INT_RepoAcademy) : node01 : PETL_24000 : Parallel Pipeline Engine initializing.
+2022-03-30 04:31:26 : INFO : (5604 | MONITOR) : (IS | INT_RepoAcademy) : node01 : PETL_24091 : Thread [MONITOR] has the ID [2].
+2022-03-30 04:31:26 : INFO : (5604 | MANAGER) : (IS | INT_RepoAcademy) : node01 : PETL_24001 : Parallel Pipeline Engine running.
+2022-03-30 04:31:26 : INFO : (5604 | MANAGER) : (IS | INT_RepoAcademy) : node01 : PETL_24003 : Initializing session run.
+2022-03-30 04:31:26 : INFO : (5604 | MAPPING) : (IS | INT_RepoAcademy) : node01 : PETL_24091 : Thread [MAPPING] has the ID [3].
+2022-03-30 04:31:26 : INFO : (5604 | MAPPING) : (IS | INT_RepoAcademy) : node01 : CMN_1569 : Server Mode: [ASCII]
+2022-03-30 04:31:26 : INFO : (5604 | MAPPING) : (IS | INT_RepoAcademy) : node01 : CMN_1570 : Server Code page: [MS Windows Latin 1 (ANSI), superset of Latin1]
+2022-03-30 04:31:26 : INFO : (5604 | MAPPING) : (IS | INT_RepoAcademy) : node01 : TM_6151 : The session sort order is [Binary].
+2022-03-30 04:31:26 : INFO : (5604 | MAPPING) : (IS | INT_RepoAcademy) : node01 : TM_6156 : Using low precision processing.
+2022-03-30 04:31:26 : INFO : (5604 | MAPPING) : (IS | INT_RepoAcademy) : node01 : TM_6180 : Deadlock retry logic will not be implemented.
+2022-03-30 04:31:26 : INFO : (5604 | MAPPING) : (IS | INT_RepoAcademy) : node01 : TM_6187 : Session target-based commit interval is [10000].
+2022-03-30 04:31:26 : INFO : (5604 | MAPPING) : (IS | INT_RepoAcademy) : node01 : TM_6307 : DTM error log disabled. 
+2022-03-30 04:31:26 : INFO : (5604 | MAPPING) : (IS | INT_RepoAcademy) : node01 : TE_7022 : TShmWriter: Initialized
+2022-03-30 04:31:26 : INFO : (5604 | MAPPING) : (IS | INT_RepoAcademy) : node01 : DBG_21694 : aggregate_trans Partition [0]: Index cache size = [89478485], Data cache size = [178956970]
+2022-03-30 04:31:26 : INFO : (5604 | MAPPING) : (IS | INT_RepoAcademy) : node01 : TE_7212 : Increasing [Index Cache] size for transformation [aggregate_trans] from [89478485] to [89479712].
+2022-03-30 04:31:26 : INFO : (5604 | MAPPING) : (IS | INT_RepoAcademy) : node01 : TE_7212 : Increasing [Data Cache] size for transformation [aggregate_trans] from [178956970] to [178957296].
+2022-03-30 04:31:26 : INFO : (5604 | MAPPING) : (IS | INT_RepoAcademy) : node01 : TE_7029 : Aggregate Information: Creating New Index and Data Files
+2022-03-30 04:31:26 : INFO : (5604 | MAPPING) : (IS | INT_RepoAcademy) : node01 : TE_7034 : Aggregate Information: Index file is [C:\Informatica\10.1.0\server\infa_shared\Cache\PMAGG25_4_0_35.idx]
+2022-03-30 04:31:26 : INFO : (5604 | MAPPING) : (IS | INT_RepoAcademy) : node01 : TE_7035 : Aggregate Information: Data file is [C:\Informatica\10.1.0\server\infa_shared\Cache\PMAGG25_4_0_35.dat]
+2022-03-30 04:31:26 : INFO : (5604 | MAPPING) : (IS | INT_RepoAcademy) : node01 : TM_6007 : DTM initialized successfully for session [s_m_2103268_Gauthamramesh1]
+2022-03-30 04:31:26 : INFO : (5604 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : PETL_24033 : All DTM Connection Info: [<NONE>].
+2022-03-30 04:31:26 : INFO : (5604 | MANAGER) : (IS | INT_RepoAcademy) : node01 : PETL_24004 : PETL_24004 Starting pre-session tasks. : (Wed Mar 30 04:31:26 2022)
+2022-03-30 04:31:26 : INFO : (5604 | PRE-SESS) : (IS | INT_RepoAcademy) : node01 : PETL_24091 : Thread [PRE-SESS] has the ID [4].
+2022-03-30 04:31:26 : INFO : (5604 | MANAGER) : (IS | INT_RepoAcademy) : node01 : PETL_24027 : PETL_24027 Pre-session task completed successfully. : (Wed Mar 30 04:31:26 2022)
+2022-03-30 04:31:26 : INFO : (5604 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : PETL_24006 : Starting data movement.
+2022-03-30 04:31:26 : INFO : (5604 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TT_11183 : Enabled using [1 (auto)] additional concurrent pipelines to build lookup caches. (Session likely will build or refresh [1] lookup caches; [0] on-demand only).
+2022-03-30 04:31:26 : INFO : (5604 | MAPPING) : (IS | INT_RepoAcademy) : node01 : TM_6660 : Total Buffer Pool size is 1219648 bytes and Block size is 65536 bytes.
+2022-03-30 04:31:26 : INFO : (5604 | LKPDP_1) : (IS | INT_RepoAcademy) : node01 : PETL_24091 : Thread [LKPDP_1] has the ID [5].
+2022-03-30 04:31:26 : INFO : (5604 | LKPDP_1) : (IS | INT_RepoAcademy) : node01 : DBG_21693 : lookup_trans{{SRT}}: Cache size for partition [1] = [285212671]
+2022-03-30 04:31:26 : INFO : (5604 | LKPDP_1) : (IS | INT_RepoAcademy) : node01 : SORT_40419 : For Transformation [lookup_trans{{SRT}}], memory used is [285212671] bytes and row size is 40 bytes.
+2022-03-30 04:31:26 : INFO : (5604 | LKPDP_1) : (IS | INT_RepoAcademy) : node01 : TE_7212 : Increasing [Index Cache] size for transformation [lookup_trans] from [89478485] to [89482800].
+2022-03-30 04:31:26 : INFO : (5604 | LKPDP_1) : (IS | INT_RepoAcademy) : node01 : TE_7212 : Increasing [Data Cache] size for transformation [lookup_trans] from [178956970] to [178962432].
+2022-03-30 04:31:26 : INFO : (5604 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TT_11184 : Starting additional concurrent pipeline to build the lookup cache needed by Lookup transformation [lookup_trans].
+2022-03-30 04:31:26 : INFO : (5604 | LKPDP_1) : (IS | INT_RepoAcademy) : node01 : TM_6660 : Total Buffer Pool size is 609824 bytes and Block size is 65536 bytes.
+2022-03-30 04:31:26 : INFO : (5604 | READER_1_1_1) : (IS | INT_RepoAcademy) : node01 : PETL_24091 : Thread [READER_1_1_1] has the ID [6].
+2022-03-30 04:31:26 : INFO : (5604 | READER_1_1_1) : (IS | INT_RepoAcademy) : node01 : DBG_21437 : Reader: Source is a file-based source.
+2022-03-30 04:31:26 : INFO : (5604 | LKPDP_1:READER_1_1) : (IS | INT_RepoAcademy) : node01 : PETL_24091 : Thread [LKPDP_1:READER_1_1] has the ID [7].
+2022-03-30 04:31:26 : INFO : (5604 | READER_1_1_1) : (IS | INT_RepoAcademy) : node01 : FR_3118 : source [SQ_SRC_2103268_GauthamRamesh] code page: [MS Windows Latin 1 (ANSI), superset of Latin1]
+2022-03-30 04:31:26 : INFO : (5604 | LKPDP_1:READER_1_1) : (IS | INT_RepoAcademy) : node01 : DBG_21437 : Reader: Source is a file-based source.
+2022-03-30 04:31:26 : INFO : (5604 | READER_1_1_1) : (IS | INT_RepoAcademy) : node01 : FR_3071 : Maximum Line sequential buffer length is 1026.
+2022-03-30 04:31:26 : INFO : (5604 | LKPDP_1:READER_1_1) : (IS | INT_RepoAcademy) : node01 : FR_3118 : source [lookup_trans{{DSQ}}] code page: [MS Windows Latin 1 (ANSI), superset of Latin1]
+2022-03-30 04:31:26 : INFO : (5604 | READER_1_1_1) : (IS | INT_RepoAcademy) : node01 : BLKR_16003 : Initialization completed successfully.
+2022-03-30 04:31:26 : INFO : (5604 | LKPDP_1:READER_1_1) : (IS | INT_RepoAcademy) : node01 : FR_3071 : Maximum Line sequential buffer length is 1026.
+2022-03-30 04:31:26 : INFO : (5604 | LKPDP_1:READER_1_1) : (IS | INT_RepoAcademy) : node01 : BLKR_16003 : Initialization completed successfully.
+2022-03-30 04:31:26 : INFO : (5604 | TRANSF_1_1_1) : (IS | INT_RepoAcademy) : node01 : PETL_24091 : Thread [TRANSF_1_1_1] has the ID [8].
+2022-03-30 04:31:26 : INFO : (5604 | LKPDP_1:TRANSF_1_1) : (IS | INT_RepoAcademy) : node01 : PETL_24091 : Thread [LKPDP_1:TRANSF_1_1] has the ID [9].
+2022-03-30 04:31:26 : INFO : (5604 | LKPDP_1:READER_1_1) : (IS | INT_RepoAcademy) : node01 : BLKR_16007 : Reader run started.
+2022-03-30 04:31:26 : INFO : (5604 | TRANSF_1_2_1) : (IS | INT_RepoAcademy) : node01 : PETL_24091 : Thread [TRANSF_1_2_1] has the ID [10].
+2022-03-30 04:31:26 : INFO : (5604 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : PETL_24091 : Thread [WRITER_1_*_1] has the ID [11].
+2022-03-30 04:31:26 : INFO : (5604 | LKPDP_1:READER_1_1) : (IS | INT_RepoAcademy) : node01 : FR_3076 : Skipped over [1] lines.
+2022-03-30 04:31:26 : INFO : (5604 | LKPDP_1:READER_1_1) : (IS | INT_RepoAcademy) : node01 : DBG_21430 : DBG_21430 Reading data from input source file [C:\2103268_gautham\SRC_2103268_GauthamRamesh.txt] : (Wed Mar 30 04:31:26 2022)
+2022-03-30 04:31:26 : INFO : (5604 | LKPDP_1:READER_1_1) : (IS | INT_RepoAcademy) : node01 : BLKR_16008 : Reader run completed.
+2022-03-30 04:31:26 : INFO : (5604 | LKPDP_1:TRANSF_1_1) : (IS | INT_RepoAcademy) : node01 : SORT_40420 : SORT_40420 Start of input for Transformation [lookup_trans{{SRT}}]. : (Wed Mar 30 04:31:26 2022)
+2022-03-30 04:31:26 : INFO : (5604 | LKPDP_1:TRANSF_1_1) : (IS | INT_RepoAcademy) : node01 : SORT_40421 : SORT_40421 End of input for Transformation [lookup_trans{{SRT}}]. : (Wed Mar 30 04:31:26 2022)
+2022-03-30 04:31:26 : INFO : (5604 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8124 : Target Table tgt_2103268_GauthamRamesh :Writing output to: C:\2103268_gautham\tgt_2103268_gauthamramesh1.txt
+2022-03-30 04:31:26 : INFO : (5604 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8222 : Target file [C:\2103268_gautham\tgt_2103268_gauthamramesh1.txt] code page: [MS Windows Latin 1 (ANSI), superset of Latin1]
+2022-03-30 04:31:26 : INFO : (5604 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8270 : Target connection group #1 consists of target(s) [tgt_2103268_GauthamRamesh]
+2022-03-30 04:31:26 : INFO : (5604 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8003 : Writer initialization complete.
+2022-03-30 04:31:26 : INFO : (5604 | READER_1_1_1) : (IS | INT_RepoAcademy) : node01 : BLKR_16007 : Reader run started.
+2022-03-30 04:31:26 : INFO : (5604 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8005 : Writer run started.
+2022-03-30 04:31:26 : INFO : (5604 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8158 : 
+
+*****START LOAD SESSION*****
+
+Load Start Time: Wed Mar 30 04:31:26 2022
+
+Target tables:
+
+     tgt_2103268_GauthamRamesh
+
+
+2022-03-30 04:31:26 : INFO : (5604 | READER_1_1_1) : (IS | INT_RepoAcademy) : node01 : FR_3076 : Skipped over [1] lines.
+2022-03-30 04:31:26 : INFO : (5604 | READER_1_1_1) : (IS | INT_RepoAcademy) : node01 : DBG_21430 : DBG_21430 Reading data from input source file [C:\2103268_gautham\SRC_2103268_GauthamRamesh.txt] : (Wed Mar 30 04:31:26 2022)
+2022-03-30 04:31:26 : INFO : (5604 | READER_1_1_1) : (IS | INT_RepoAcademy) : node01 : BLKR_16019 : Read [10] rows, read [0] error rows for source table [SRC_2103268_GauthamRamesh] instance name [SRC_2103268_GauthamRamesh]
+2022-03-30 04:31:26 : INFO : (5604 | READER_1_1_1) : (IS | INT_RepoAcademy) : node01 : BLKR_16008 : Reader run completed.
+2022-03-30 04:31:26 : INFO : (5604 | TRANSF_1_1_1) : (IS | INT_RepoAcademy) : node01 : DBG_21216 : Finished transformations for Source Qualifier [SQ_SRC_2103268_GauthamRamesh]. Total errors [0] 
+2022-03-30 04:31:26 : INFO : (5604 | TRANSF_1_2_1) : (IS | INT_RepoAcademy) : node01 : TT_11186 : Lookup cache of [lookup_trans], previously started by an additional concurrent pipeline, is now needed on demand.
+2022-03-30 04:31:26 : INFO : (5604 | TRANSF_1_2_1) : (IS | INT_RepoAcademy) : node01 : TT_11185 : No more lookup cache to build by additional concurrent pipeline in the current concurrent source set.
+2022-03-30 04:31:26 : INFO : (5604 | LKPDP_1:TRANSF_1_1) : (IS | INT_RepoAcademy) : node01 : DBG_21079 : DBG_21079 Creating Lookup Cache : (Wed Mar 30 04:31:26 2022)
+2022-03-30 04:31:26 : INFO : (5604 | LKPDP_1:TRANSF_1_1) : (IS | INT_RepoAcademy) : node01 : SORT_40422 : SORT_40422 End of output from Sorter Transformation [lookup_trans{{SRT}}]. Processed 10 rows (400 input bytes; 0 temp I/O bytes). : (Wed Mar 30 04:31:26 2022)
+2022-03-30 04:31:26 : INFO : (5604 | LKPDP_1:TRANSF_1_1) : (IS | INT_RepoAcademy) : node01 : SORT_40423 : SORT_40423 End of sort for Sorter Transformation [lookup_trans{{SRT}}]. : (Wed Mar 30 04:31:26 2022)
+2022-03-30 04:31:26 : INFO : (5604 | LKPDP_1:TRANSF_1_1) : (IS | INT_RepoAcademy) : node01 : DBG_21682 : Lookup table row count : 10
+2022-03-30 04:31:26 : INFO : (5604 | LKPDP_1:TRANSF_1_1) : (IS | INT_RepoAcademy) : node01 : DBG_21297 : Lookup cache row count : 10
+
+2022-03-30 04:31:26 : INFO : (5604 | LKPDP_1:TRANSF_1_1) : (IS | INT_RepoAcademy) : node01 : DBG_21294 : DBG_21294 Lookup cache creation completed : (Wed Mar 30 04:31:26 2022)
+2022-03-30 04:31:26 : INFO : (5604 | LKPDP_1:TRANSF_1_1) : (IS | INT_RepoAcademy) : node01 : CMN_1671 : Created new cache files PMLKUP25_6_0_35W64.[dat/idx] in directory C:\Informatica\10.1.0\server\infa_shared\Cache for Lookup [lookup_trans].
+2022-03-30 04:31:26 : INFO : (5604 | LKPDP_1:TRANSF_1_1) : (IS | INT_RepoAcademy) : node01 : DBG_21641 : lookup_trans: Index cache size = [89482800], Data cache size = [178962432]
+2022-03-30 04:31:26 : INFO : (5604 | LKPDP_1:TRANSF_1_1) : (IS | INT_RepoAcademy) : node01 : DBG_21216 : Finished transformations for Source Qualifier [lookup_trans{{DSQ}}]. Total errors [0] 
+2022-03-30 04:31:26 : INFO : (5604 | TRANSF_1_2_1) : (IS | INT_RepoAcademy) : node01 : TE_7032 : The B-Tree being managed in files
+C:\Informatica\10.1.0\server\infa_shared\Cache\PMAGG25_4_0_35.dat for Data and
+
+C:\Informatica\10.1.0\server\infa_shared\Cache\PMAGG25_4_0_35.idx for Index has:
+	Index Size:	11
+	Row Size:	32
+	Order:		100
+	Minimum Order:	50
+	Height:		1
+	Entries:	3
+	IndexPageSize:	2296
+	IndexPages:	38972
+	DataPageSize:	552
+	DataPages:	324198
+
+2022-03-30 04:31:26 : INFO : (5604 | TRANSF_1_2_1) : (IS | INT_RepoAcademy) : node01 : DBG_21216 : Finished transformations for Source Qualifier [aggregate_trans]. Total errors [0] 
+2022-03-30 04:31:26 : INFO : (5604 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8167 : Start loading table [tgt_2103268_GauthamRamesh] at: Wed Mar 30 04:31:26 2022
+2022-03-30 04:31:26 : INFO : (5604 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8168 : End loading table [tgt_2103268_GauthamRamesh] at: Wed Mar 30 04:31:26 2022
+2022-03-30 04:31:26 : INFO : (5604 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8035 : Load complete time: Wed Mar 30 04:31:26 2022
+
+LOAD SUMMARY
+============
+
+WRT_8036 Target: tgt_2103268_GauthamRamesh (Instance Name: [tgt_2103268_GauthamRamesh])
+WRT_8038 Inserted rows - Requested: 5          Applied: 5          Rejected: 0          Affected: 5         
+
+
+2022-03-30 04:31:26 : INFO : (5604 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8043 : *****END LOAD SESSION*****
+2022-03-30 04:31:26 : INFO : (5604 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8006 : Writer run completed.
+2022-03-30 04:31:26 : INFO : (5604 | MANAGER) : (IS | INT_RepoAcademy) : node01 : PETL_24031 : 
+***** RUN INFO FOR TGT LOAD ORDER GROUP [1], CONCURRENT SET [1] *****
+Thread [READER_1_1_1] created for [the read stage] of partition point [SQ_SRC_2103268_GauthamRamesh] has completed. The total run time was insufficient for any meaningful statistics.
+Thread [TRANSF_1_1_1] created for [the transformation stage] of partition point [SQ_SRC_2103268_GauthamRamesh] has completed. The total run time was insufficient for any meaningful statistics.
+Thread [TRANSF_1_2_1] created for [the transformation stage] of partition point [aggregate_trans] has completed. The total run time was insufficient for any meaningful statistics.
+Thread [WRITER_1_*_1] created for [the write stage] of partition point [tgt_2103268_GauthamRamesh] has completed. The total run time was insufficient for any meaningful statistics.
+
+2022-03-30 04:31:26 : INFO : (5604 | MAPPING) : (IS | INT_RepoAcademy) : node01 : CMN_1791 : The index cache size that would hold [3] aggregate groups of input rows for [aggregate_trans], in memory, is [2296] bytes
+2022-03-30 04:31:26 : INFO : (5604 | MAPPING) : (IS | INT_RepoAcademy) : node01 : CMN_1790 : The data cache size that would hold [3] aggregate groups of input rows for [aggregate_trans], in memory, is [552] bytes
+2022-03-30 04:31:26 : INFO : (5604 | MAPPING) : (IS | INT_RepoAcademy) : node01 : CMN_1793 : The index cache size that would hold [10] rows in the lookup table for [lookup_trans], in memory, is [4400] bytes
+2022-03-30 04:31:26 : INFO : (5604 | MAPPING) : (IS | INT_RepoAcademy) : node01 : CMN_1792 : The data cache size that would hold [10] rows in the lookup table for [lookup_trans], in memory, is [16384] bytes
+2022-03-30 04:31:26 : INFO : (5604 | MANAGER) : (IS | INT_RepoAcademy) : node01 : PETL_24005 : PETL_24005 Starting post-session tasks. : (Wed Mar 30 04:31:26 2022)
+2022-03-30 04:31:26 : INFO : (5604 | POST-SESS) : (IS | INT_RepoAcademy) : node01 : PETL_24091 : Thread [POST-SESS] has the ID [12].
+2022-03-30 04:31:26 : INFO : (5604 | MANAGER) : (IS | INT_RepoAcademy) : node01 : PETL_24029 : PETL_24029 Post-session task completed successfully. : (Wed Mar 30 04:31:26 2022)
+2022-03-30 04:31:26 : INFO : (5604 | MAPPING) : (IS | INT_RepoAcademy) : node01 : TE_7216 : Deleting cache files [PMLKUP25_6_0_35W64] for transformation [lookup_trans].
+2022-03-30 04:31:26 : INFO : (5604 | MAPPING) : (IS | INT_RepoAcademy) : node01 : TM_6018 : The session completed with [0] row transformation errors. 
+2022-03-30 04:31:26 : INFO : (5604 | MANAGER) : (IS | INT_RepoAcademy) : node01 : TE_7216 : Deleting cache files [C:\Informatica\10.1.0\server\infa_shared\Cache\PMAGG25_4_0_35.idx] for transformation [aggregate_trans].
+2022-03-30 04:31:26 : INFO : (5604 | MANAGER) : (IS | INT_RepoAcademy) : node01 : TE_7216 : Deleting cache files [C:\Informatica\10.1.0\server\infa_shared\Cache\PMAGG25_4_0_35.dat] for transformation [aggregate_trans].
+2022-03-30 04:31:27 : INFO : (5604 | MANAGER) : (IS | INT_RepoAcademy) : node01 : PETL_24002 : Parallel Pipeline Engine finished.
+2022-03-30 04:31:27 : INFO : (5604 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : PETL_24012 : Session run completed successfully.
+2022-03-30 04:31:27 : INFO : (5604 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6022 : 
+
+SESSION LOAD SUMMARY
+================================================
+
+2022-03-30 04:31:27 : INFO : (5604 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6252 : Source Load Summary.
+2022-03-30 04:31:27 : INFO : (5604 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : CMN_1740 : Table: [SQ_SRC_2103268_GauthamRamesh] (Instance Name: [SQ_SRC_2103268_GauthamRamesh])
+	 Output Rows [10], Affected Rows [10], Applied Rows [10], Rejected Rows [0]
+2022-03-30 04:31:27 : INFO : (5604 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6253 : Target Load Summary.
+2022-03-30 04:31:27 : INFO : (5604 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : CMN_1740 : Table: [tgt_2103268_GauthamRamesh] (Instance Name: [tgt_2103268_GauthamRamesh])
+	 Output Rows [5], Affected Rows [5], Applied Rows [5], Rejected Rows [0]
+2022-03-30 04:31:27 : INFO : (5604 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6023 : 
+===================================================
+
+2022-03-30 04:31:27 : INFO : (5604 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6020 : Session [s_m_2103268_Gauthamramesh1] completed at [Wed Mar 30 04:31:27 2022].
